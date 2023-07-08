@@ -1,0 +1,42 @@
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  header {
+    background-color: rgb(88, 203, 248);
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: rgb(245, 100, 100);
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav li {
+    margin-right: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: rgb(46, 154, 216);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
